@@ -8,9 +8,11 @@
 
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
-| Alice Doe | @AliceDoe | Built CNN model, performed data augmentation |
-| Mel Ramakrishnan | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
-| Charlie Nguyen | @CharlieN | Implemented explainability tools |
+| Salma Bhar | @ | Built CNN model |
+| Iman Ikram | @ImanIkram | .. |
+| Veronica Hangsan | @vhangsan | Worked on building CNN model and optimizing with ResNet50 model |
+| Adya Mohanty | @am2558 | Built CNN model |
+| Ashley Nguyen | @ | Built CNN model |
 
 ---
 
