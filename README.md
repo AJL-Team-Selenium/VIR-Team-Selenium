@@ -45,9 +45,9 @@
 
 **Describe:**
 
-* The Kaggle competition and its connection to the Break Through Tech AI Program
-* The objective of the challenge
-* The real-world significance of the problem and the potential impact of your work
+* Background: Existing dermatology AI tools often fail to provide accurate diagnoses for individuals with darker skin tones due to insufficient diversity in training datasets. This limitation can result in diagnostic errors and delayed treatments. As a result, underserved communities are systematically excluded from the benefits of AI advancements in healthcare.
+
+* Objective: We aim to develop a machine-learning model using datasets from Kaggle to classify 21 different skin conditions accurately. The model's performance will be evaluated through key metrics including accuracy, F1, and precision allowing us to gauge the model's ability to handle diverse skin tones.
 
 ---
 
