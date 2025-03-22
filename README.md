@@ -53,15 +53,20 @@
 
 ## **📊 Data Exploration**
 
-**Describe:**
+* Dataset Source: subset of the FitzPatrick17k dataset from Kaggle
+* EDA approach: Visualizations (Label and Nine Partition Label Distribution, Scatterplot)
+* Challenges:
+  
+During our data exploration analysis stage, we created visualizations to help understand the distribution of the different skin conditions.
 
-* The dataset(s) used (i.e., the data provided in Kaggle \+ any additional sources)
-* Data exploration and preprocessing approaches
-* Challenges and assumptions when working with the dataset(s)
-
-**Potential visualizations to include:**
-
-* Plots, charts, heatmaps, feature visualizations, sample dataset images
+![label distribution](eda_images/label_distribution.png)
+* Visualization: This count plot shows the distribution of labels across the dataset and identifies the frequency of each class label.
+  
+![label partition](eda_images/label_partition.png)
+* Visualization: This shows the distruibution of labels after partitioning the data into nine categories.
+  
+![scatterplot](eda_images/scatterplot.png)
+* Visualization: This scatter plot provides insights into correlations between the differrent skin conditions.
 
 ---
 
