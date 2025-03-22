@@ -8,7 +8,7 @@
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
 | Salma Bhar | @ | Built CNN model |
-| Iman Ikram | @ImanIkram | .. |
+| Iman Ikram | @ImanIkram | Built CNN model and optimizing with EfficientNetB3 model |
 | Veronica Hangsan | @vhangsan | Built CNN model and optimizing with ResNet50 model |
 | Adya Mohanty | @am2558 | Built CNN model |
 | Ashley Nguyen | @ | Built CNN model |
