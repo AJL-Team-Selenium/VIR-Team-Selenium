@@ -1,6 +1,5 @@
-# GitHub Kaggle Project README Template
+# AJL Team Selenium Equitable AI for Dermatology
 
-⚠️ _Remember to update the above title and remove all guidance notes and examples in this template, before finalizing your README_
 
 ---
 
@@ -10,7 +9,7 @@
 | ----- | ----- | ----- |
 | Salma Bhar | @ | Built CNN model |
 | Iman Ikram | @ImanIkram | .. |
-| Veronica Hangsan | @vhangsan | Worked on building CNN model and optimizing with ResNet50 model |
+| Veronica Hangsan | @vhangsan | Built CNN model and optimizing with ResNet50 model |
 | Adya Mohanty | @am2558 | Built CNN model |
 | Ashley Nguyen | @ | Built CNN model |
 
