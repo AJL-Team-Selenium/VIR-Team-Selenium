@@ -100,7 +100,7 @@ Skin diseases often go misdiagnosed or undiagnosed for people with darker skin�
 - Transfer learning from medical-specific image datasets rather than general-purpose ones like ImageNet.
 ---
 
-## **📄 Authors **
+## **📄 Authors**
 2025 Team Selenium: Salma Bhar, Veronica Hangsan, Iman Ikram, Adya Mohanty, Ashley Nguyen
 Teaching Assistant: Abhijay Rane
 This project was developed as part of the Break Through Tech AI Program in response to the AJL x Break Through Tech Kaggle Challenge.
