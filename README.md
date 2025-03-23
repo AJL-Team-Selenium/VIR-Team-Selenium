@@ -101,8 +101,8 @@ Skin diseases often go misdiagnosed or undiagnosed for people with darker skinâ€
 ---
 
 ## **ðŸ“„ Authors**
-2025 Team Selenium: Salma Bhar, Veronica Hangsan, Iman Ikram, Adya Mohanty, Ashley Nguyen
-Teaching Assistant: Abhijay Rane
+2025 Team Selenium: Salma Bhar, Veronica Hangsan, Iman Ikram, Adya Mohanty, Ashley Nguyen </br>
+Thank you to our Teaching Assistant Abhijay Rane for his support and feedback during this challenge. </br>
 This project was developed as part of the Break Through Tech AI Program in response to the AJL x Break Through Tech Kaggle Challenge.
 
 ---
