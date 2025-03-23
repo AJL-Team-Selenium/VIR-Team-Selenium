@@ -9,7 +9,7 @@
 | Iman Ikram | @ImanIkram | Built CNN model and optimizing with EfficientNetB3 model |
 | Veronica Hangsan | @vhangsan | Built CNN model and optimizing with ResNet50 model |
 | Adya Mohanty | @am2558 | Team Lead and Built CNN model |
-| Ashley Nguyen | @ | Built CNN model |
+| Ashley Nguyen | @ashleytln | Built CNN model and optimizing with DenseNet121 model |
 
 ---
 
@@ -67,17 +67,15 @@ We trained an EfficientNet-based image classification model using TensorFlow/Ker
 
 ## **🖼️ Impact Narrative**
 
-**AJL challenge:**
+**AJL Challenge:**
 
 As Dr. Randi mentioned in her challenge overview, “Through poetry, art, and storytelling, you can reach others who might not know enough to understand what’s happening with the machine learning model or data visualizations, but might still be heavily impacted by this kind of work.”
-As you answer the questions below, consider using not only text, but also illustrations, annotated visualizations, poetry, or other creative techniques to make your work accessible to a wider audience.
-Check out [this guide](https://drive.google.com/file/d/1kYKaVNR\_l7Abx2kebs3AdDi6TlPviC3q/view) from the Algorithmic Justice League for inspiration!
 
-1. What steps did you take to address [model fairness](https://haas.berkeley.edu/wp-content/uploads/What-is-fairness_-EGAL2.pdf)? (e.g., leveraging data augmentation techniques to account for training dataset imbalances; using a validation set to assess model performance across different skin tones)
+1. What steps did we take to address [model fairness](https://haas.berkeley.edu/wp-content/uploads/What-is-fairness_-EGAL2.pdf)? (e.g., leveraging data augmentation techniques to account for training dataset imbalances; using a validation set to assess model performance across different skin tones)
 - Balanced Validation Strategy: We evaluated our model using a stratified validation set to ensure representation across skin tones and conditions. We analyzed performance across all 21 classes, identifying disparities in precision and recall, especially in underrepresented categories (eg: classes 3, 18, 19).
 - Model Selection Strategy: We chose EfficientNetB3 not only for accuracy but also for its balanced performance across classes. Our confusion matrix and classification report helped us identify which groups the model struggled with—guiding fairness-focused tuning.
 
-2. What broader impact could your work have?
+2. What broader impact could our work have?
 Skin diseases often go misdiagnosed or undiagnosed for people with darker skin—leading to late treatments and poor health outcomes. Our work contributes to:
 - Health Equity: By building a more inclusive AI model, we help ensure all patients regardless of skin tone receive reliable and timely diagnoses.
 - Raising Awareness: Through annotated visuals and transparent documentation, we aim to educate others about algorithmic bias in healthcare AI.
