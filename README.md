@@ -60,7 +60,7 @@ We trained an EfficientNet-based image classification model using TensorFlow/Ker
 - Test Accuracy: 94%
 - Macro Avg F1 Score: 0.96
 - Weighted Avg F1 Score: 0.93
-- Confusion Matrix:
+- Confusion Matrix: </br>
 ![image](https://github.com/user-attachments/assets/c22aa943-eb5b-47a0-aa00-b34996f9b7ac)
 
 ---
