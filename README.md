@@ -10,7 +10,7 @@
 | Salma Bhar | @Salma-Bhar-CWRU | Built CNN model and optimizing with Vision Transformer (ViT) model |
 | Iman Ikram | @ImanIkram | Built CNN model and optimizing with EfficientNetB3 model |
 | Veronica Hangsan | @vhangsan | Built CNN model and optimizing with ResNet50 model |
-| Adya Mohanty | @am2558 | Built CNN model |
+| Adya Mohanty | @am2558 | Team Lead and Built CNN model |
 | Ashley Nguyen | @ | Built CNN model |
 
 ---
